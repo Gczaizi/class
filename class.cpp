@@ -4,7 +4,7 @@
 using namespace std;
 
 int main()
-{
+{	//test github
 	Screen myScreen(5, 5, 'X');
 	//const Screen blank(5, 3, ' ');
 	myScreen.move(4, 0).set('#').display(cout);
